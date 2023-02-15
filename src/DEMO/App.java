@@ -1,4 +1,4 @@
-
+package DEMO;
 public class App {
        public static void main(String[] args) throws Exception {
         //Datatypes
@@ -18,9 +18,7 @@ public class App {
         // for binary
         int binary = 0b101;
         System.out.print("Binary:-" + binary);
-        
-
-
-
     }
 }
+
+
