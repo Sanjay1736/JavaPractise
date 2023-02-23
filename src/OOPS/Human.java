@@ -1,9 +1,9 @@
+ 
 package OOPS;
-
-public class Human {
-    private int age;
-    private String Name;
-
+ 
+ public class Human {
+     int age;
+    String Name;
     public void setAge(int a) {
         age = a;
     }
